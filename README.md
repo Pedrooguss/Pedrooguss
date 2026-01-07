@@ -5,8 +5,7 @@
 Me chamo Pedro Gustavo de Godoi, tenho 20 anos e sou natural de Valinhos, SP. Concluí o ensino médio no Colégio Politécnico Bento Quirino, com o curso técnico em informática. Atualmente, estou cursando superior em Tecnologia da Informação (Infra, Programação e Dados) no Instituto Infnet. Sou apaixonado por tecnologia e comecei os estudos com Hardware. 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/godoipedro" target="_blank"><img alt="Linkedin" title="Me siga no Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="20"/></a>&nbsp;<a href="mailto:godoi.pedro2006@gmail.com"><img alt="Email" title="Me chame no email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" height="20"/></a>
-</p>
+<a href="https://www.linkedin.com/in/godoipedro" target="_blank"><img alt="Linkedin" title="Me siga no Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="20"/></a>&nbsp;
 
 ---
 
